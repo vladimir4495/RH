@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Cako';
+    src: local('Cako Regular'), local('Cako-Regular'),
+        url('Cako-Regular.woff2') format('woff2'),
+        url('Cako-Regular.woff') format('woff'),
+        url('Cako-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
